@@ -73,7 +73,7 @@ const Resume = () => {
             <ul className="text-xs text-resume-text ml-4 space-y-1">
               <li>• Worked in the MOSOT team of McDonald's project at Accenture, contributing to UI development for the MOSOT product</li>
               <li>• Collaborated with the UI team to identify and resolve critical bugs in React.js-based user interface</li>
-              <li>• Developed proficiency in Python data analysis using Pandas and Matplotlib with Cursor AI for code optimization</li>
+              <li>• Developed proficiency in Python data analysis using Pandas and Matplotlib.</li>
               <li>• Analyzed raw transactional sales data into actionable business insights for strategic decision-making</li>
               <li>• Participated in cross-functional collaboration between UI development and data engineering teams</li>
             </ul>
