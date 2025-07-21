@@ -27,6 +27,13 @@ const Resume = () => {
               leetcode.com/u/bhargavdash
             </a>
           </div>
+          <div className="flex items-center gap-1">
+            <Globe className="w-3 h-3" />
+            <span>Portfolio: </span>
+            <a href="https://portfolio-website-three-wheat.vercel.app/" className="text-resume-section hover:underline">
+             https://portfolio-website-three-wheat.vercel.app/
+            </a>
+          </div>
         </div>
       </div>
 
